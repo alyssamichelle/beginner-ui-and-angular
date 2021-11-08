@@ -58,10 +58,10 @@ Tweet a screenshot of your upgraded UI with the tag #heykendoui to enter the com
 
 
 ### Including SASS with a new project
-    `ng new my-scss-app --style=scss`
+    ng new my-scss-app --style=scss
     
 ### Including Sass in an existing project:
-    `ng config schematics.@schematics/angular:component.style scss`
+    ng config schematics.@schematics/angular:component.style scss
 
 
 Resources to share out:
