@@ -5,7 +5,7 @@ A talk for UI and Angular beginners alike. Let's pull down the Tour of Heroes ap
  
 
 - Dive into the Tour of Heroes demo application like never before!
-- Learn about integrating SASS into your Angular Project.
+- Learn about integrating Sass into your Angular Project.
 - Learn how to include a Component Library into your Project. (We will be using Kendo UI but the principles to implement a UI Library are pretty universal.)
 - Play around with customizing styles and writing custom CSS from scratch.
 - Go over UI/UX principles and implement them on the fly.
@@ -50,14 +50,14 @@ Tweet a screenshot of your upgraded UI with the tag #heykendoui to enter the com
 
 
 
-- SASS variables & CSS Custom Properties
+- Sass variables & CSS Custom Properties
     - syntax differences
     - view encapsulation with :root for css vars
-    - If you need to update a variable after view has been rendered, use CSS variables (SASS vars won’t exist anymore)
+    - If you need to update a variable after view has been rendered, use CSS variables (Sass vars won’t exist anymore)
 
 
 
-### Including SASS with a new project
+### Including Sass with a new project
     ng new my-scss-app --style=scss
     
 ### Including Sass in an existing project:
