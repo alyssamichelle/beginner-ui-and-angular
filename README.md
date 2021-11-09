@@ -63,6 +63,12 @@ Tweet a screenshot of your upgraded UI with the tag #heykendoui to enter the com
 ### Including Sass in an existing project:
     ng config schematics.@schematics/angular:component.style scss
 
+## Including Kendo UI
+### The Card Component
+[Card Component Docs](https://www.telerik.com/kendo-angular-ui-develop/components/layout/card/)
+
+#### How to install: 
+    ng add @progress/kendo-angular-layout
 
 Resources to share out:
 - [Color Inspo](https://colorhunt.co/) 
